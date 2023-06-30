@@ -1,0 +1,4 @@
+﻿  Analysis_brackets.cpp
+C:\Users\arosl\source\repos\Analysis_brackets\Analysis_brackets\Analysis_brackets.cpp(109,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\arosl\source\repos\Analysis_brackets\Analysis_brackets\Analysis_brackets.cpp(111,25): warning C4018: >=: несоответствие типов со знаком и без знака
+  Analysis_brackets.vcxproj -> C:\Users\arosl\source\repos\Analysis_brackets\Debug\Analysis_brackets.exe
